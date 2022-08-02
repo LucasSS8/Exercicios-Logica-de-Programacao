@@ -1,4 +1,6 @@
-public class Ex1Java{
+package Exercicio1;
+
+public class Java1{
 //Exercicio 1
     public static void main(String[] args){
 
