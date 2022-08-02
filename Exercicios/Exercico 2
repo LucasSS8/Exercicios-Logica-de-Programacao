@@ -1,0 +1,7 @@
+Analise os algoritmos abaixo e diga o que será impresso na tela ao serem executados:
+A) 
+A <-10 
+B <- 20
+ESCREVER B
+B <- 5
+ESCREVER A , B
