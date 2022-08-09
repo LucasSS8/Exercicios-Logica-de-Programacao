@@ -27,9 +27,9 @@ public class exercicio8 {
         System.out.println("Digite a quantidade de votos validos : ");
         validos = s.nextInt();
 
-        percbrancos = (totaleleitores * brancos)/100;
-        percnulos = (totaleleitores * nulos)/100;
-        percvalidos = (totaleleitores * validos)/100;
+        percbrancos = (100 * brancos)/totaleleitores;
+        percnulos = (100 * nulos)/totaleleitores;
+        percvalidos = (100 * validos)/totaleleitores;
         
 
         System.out.println("***********************************");
